@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋 I'm Amir Ostowar
+Hi I'm Amir Ostowar
 </h1>
 
 <h3 align="center">
@@ -10,7 +10,7 @@ Web3 Full-Stack Developer • Smart Contract Engineer • Blockchain Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web3+Applications;Smart+Contracts+%7C+DeFi+%7C+NFT;React+%7C+Next.js+%7C+Solidity;Always+Learning+Something+New"/>
 </p>
 
-# 👨‍💻 About Me
+## About Me
 
 I'm **Amir Ostowar**, a passionate **Web3 Full-Stack Developer** with more than **10 years of experience** building modern web applications.
 
@@ -20,7 +20,7 @@ As blockchain technology evolved, I found my real passion in decentralization. I
 
 Today I focus on building secure, scalable and production-ready decentralized applications that bridge Web2 usability with Web3 innovation.
 
-### 🚀 What I'm doing
+### What I'm doing
 
 - 🔭 Building Full Stack Web3 Applications
 - ⚡ Developing Smart Contracts
@@ -31,7 +31,7 @@ Today I focus on building secure, scalable and production-ready decentralized ap
 
 ---
 
-# ⚡ Skill Stack
+## Skill Stack
 
 <p>
 
@@ -41,7 +41,7 @@ Today I focus on building secure, scalable and production-ready decentralized ap
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 
@@ -145,7 +145,7 @@ React • Solidity • PostgreSQL
 
 ---
 
-# 🔥 My Development Process
+## 🔥 My Development Process
 
 ```mermaid
 graph LR
@@ -173,7 +173,7 @@ I --> J[Optimization]
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 <p >
 <a href="https://www.linkedin.com/in/amirostowar/">
