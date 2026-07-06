@@ -131,30 +131,6 @@ React • Solidity • PostgreSQL
 
 </td>
 
-
-<td align="center">
-
-<a href="#">
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/amirostowar/amirostowar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
 ---
 
 # 🔥 My Development Process
