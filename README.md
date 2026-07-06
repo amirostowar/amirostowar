@@ -35,7 +35,7 @@ Today I focus on building secure, scalable and production-ready decentralized ap
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,typescript,replit,tailwind,redux,vue,angular,nodejs,solidity,postgres,mongodb,redis,supabase,firebase,git,github,vercel,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,typescript,replit,tailwind,redux,vue,angular,nodejs,solidity,postgres,mongodb,redis,supabase,firebase,git,github,vercel,vscode&perline=14"/>
 
 </p>
 
@@ -187,18 +187,11 @@ I --> J[Optimization]
 
 # 📫 Contact
 
-<p align="center">
-
+<p >
 <a href="https://www.linkedin.com/in/amirostowar/">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </p>
 
-
-
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
-
 </p>
