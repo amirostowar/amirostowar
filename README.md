@@ -12,7 +12,7 @@ Web3 Full-Stack Developer • Smart Contract Engineer • Blockchain Enthusiast
 
 ## About Me
 
-I'm **Amir Ostowar**, a passionate **Web3 Full-Stack Developer** with more than **10 years of experience** building modern web applications.
+I'm a passionate **Web3 Full-Stack Developer** with more than **10 years of experience** building modern web applications.
 
 My journey into software development began with **WordPress**, where I discovered the power of turning ideas into real digital products. That curiosity soon led me into **Frontend Development**, mastering JavaScript ecosystems and crafting fast, responsive user experiences.
 
