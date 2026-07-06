@@ -1,20 +1,3 @@
-<!--
-═══════════════════════════════════════════════════════════════
-
-             Amir Ostowar GitHub Profile
-
-Inspired by:
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-
-Skill Icons:
-https://github.com/tandpfun/skill-icons
-
-GitHub Stats:
-https://github.com/anuraghazra/github-readme-stats
-
-═══════════════════════════════════════════════════════════════
--->
-
 <h1 align="center">
 
 Hi 👋 I'm Amir Ostowar
@@ -453,85 +436,7 @@ I'm always interested in collaborating on:
 
 </p>
 
----
 
-# ⚡ Fun Facts
-
-```yaml
-Name: Amir Ostowar
-
-Role: Web3 Full-Stack Developer
-
-Experience: 10+ Years
-
-Favorite Language: TypeScript
-
-Favorite Chain: Ethereum
-
-Coffee: Required ☕
-
-Music While Coding: Always 🎧
-
-Mission:
-Build scalable decentralized applications.
-```
-
----
-
-# 🎯 Current Focus
-
-- Smart Contract Architecture
-
-- Full Stack dApps
-
-- Security Best Practices
-
-- Gas Optimization
-
-- Layer 2 Ecosystem
-
-- AI + Blockchain
-
----
-
-# 🛠 Toolbox
-
-```text
-Frontend
-███████████████████████
-
-Backend
-██████████████████
-
-Blockchain
-████████████████████████
-
-DevOps
-██████████████
-
-Database
-███████████████████
-```
-
----
-
-# ❤️ Thanks for Visiting
-
-<p align="center">
-
-If you like my work,
-
-consider giving a ⭐ to my repositories.
-
-</p>
-
-<p align="center">
-
-Happy Coding 🚀
-
-</p>
-
----
 
 <p align="center">
 
