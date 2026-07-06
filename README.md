@@ -63,7 +63,7 @@ Today I focus on building secure, scalable and production-ready decentralized ap
 
 <sub>
 
-A decentralized exchange supporting token swaps, liquidity pools and farming.
+A decentralized exchange.
 
 </sub>
 
@@ -91,7 +91,7 @@ React • Solidity • Ethers.js • Tailwind
 
 <sub>
 
-Mint, Buy, Sell and Auction NFTs with royalty support.
+Mint, Buy, Sell and Auction NFTs.
 
 </sub>
 
@@ -119,7 +119,7 @@ Next.js • Solidity • IPFS • MongoDB
 
 <sub>
 
-Community governance with proposals and decentralized voting.
+Community governance with proposals.
 
 </sub>
 
@@ -138,34 +138,6 @@ React • Solidity • PostgreSQL
 <table>
 
 <tr>
-
-<td align="center">
-
-<a href="#">
-
-<img src="https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=900&q=80"/>
-
-</a>
-
-<br>
-
-<b>Token Launchpad</b>
-
-<br>
-
-<sub>
-
-Launch new blockchain projects with vesting, whitelist and token sale.
-
-</sub>
-
-<br><br>
-
-**Tech**
-
-Next.js • Solidity • Redis • Supabase
-
-</td>
 
 </tr>
 
