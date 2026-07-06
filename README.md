@@ -35,7 +35,7 @@ Today I focus on building secure, scalable and production-ready decentralized ap
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,typescript,replit,tailwind,redux,vue,angular,nodejs,solidity,postgres,mongodb,redis,supabase,firebase,git,github,vercel,vscode&perline=14"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,typescript,replit,tailwind,redux,vue,angular,nodejs,solidity,postgres,mongodb,redis,supabase,firebase,git,github,vercel,vscode"/>
 
 </p>
 
