@@ -70,25 +70,6 @@ Today I focus on building secure, scalable and production-ready decentralized ap
 
 </p>
 
-### Blockchain
-
-- Solidity
-- Ethers.js
-- Web3.js
-- Hardhat
-- OpenZeppelin
-
-### Networks
-
-- Ethereum
-- Base
-- Arbitrum
-- Optimism
-- Polygon
-- BNB Chain
-- Avalanche
-- Solana
-
 ---
 
 # 🚀 Featured Projects
@@ -197,47 +178,11 @@ React • Solidity • PostgreSQL
 
 </a>
 
-<br>
-
-<b>Token Launchpad</b>
-
-<br>
-
-<sub>
-
-Launch new blockchain projects with vesting, whitelist and token sale.
-
-</sub>
-
-<br><br>
-
-**Tech**
-
-Next.js • Solidity • Redis • Supabase
-
 </td>
 
 </tr>
 
 </table>
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amirostowar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirostowar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amirostowar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -247,118 +192,6 @@ Next.js • Solidity • Redis • Supabase
 
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amirostowar&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# ⚙️ Development Philosophy
-
-```typescript
-const amir = {
-    role: "Web3 Full-Stack Developer",
-
-    experience: "10+ Years",
-
-    focus: [
-        "Smart Contracts",
-        "Full Stack dApps",
-        "DeFi",
-        "NFT",
-        "Blockchain Infrastructure"
-    ],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Tailwind CSS"
-    ],
-
-    blockchain: [
-        "Solidity",
-        "Ethers.js",
-        "Web3.js",
-        "Ethereum"
-    ],
-
-    backend: [
-        "Node.js",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Supabase"
-    ],
-
-    philosophy: "Write Clean Code • Build Useful Products • Never Stop Learning"
-}
-```
-
----
-
-# 🌐 Blockchain Ecosystem
-
-| Network | Experience |
-|----------|-----------|
-| Ethereum | ⭐⭐⭐⭐⭐ |
-| Base | ⭐⭐⭐⭐⭐ |
-| Arbitrum | ⭐⭐⭐⭐ |
-| Optimism | ⭐⭐⭐⭐ |
-| Polygon | ⭐⭐⭐⭐ |
-| BNB Chain | ⭐⭐⭐⭐ |
-| Avalanche | ⭐⭐⭐ |
-| Solana | ⭐⭐⭐ |
-
----
-
-# 💼 Services
-
-✔ Smart Contract Development
-
-✔ Full Stack dApps
-
-✔ DeFi Applications
-
-✔ NFT Marketplace Development
-
-✔ Token Launchpad
-
-✔ DAO Platforms
-
-✔ Wallet Integration
-
-✔ Web3 Authentication
-
-✔ Frontend Development
-
-✔ Backend APIs
-
-✔ Blockchain Consulting
-
-✔ Performance Optimization
-
----
-
-# 📚 Currently Learning
-
-- 🔹 Account Abstraction (ERC-4337)
-
-- 🔹 Zero Knowledge Proofs (ZK)
-
-- 🔹 Layer 2 Scaling
-
-- 🔹 Cross-chain Protocols
-
-- 🔹 Solidity Security Patterns
-
-- 🔹 Advanced Smart Contract Auditing
 
 ---
 
@@ -390,107 +223,10 @@ const amir = {
 
 </p>
 
----
-
-# ☕ Fun Facts
-
-- 🚀 Passionate about Web3 Innovation
-- 💻 Building products from idea to deployment
-- 🔥 Love solving challenging engineering problems
-- 🌍 Open Source Contributor
-- 📖 Lifelong Learner
-- ⚡ Coffee + Music + Code
 
 ---
 
-# 🚀 2026 Goals
 
-- ✅ Build production-ready Web3 products
-- 🔥 Contribute more to Open Source
-- 🌍 Collaborate with global blockchain teams
-- 📚 Deep dive into Zero Knowledge Proofs
-- ⚡ Master Account Abstraction (ERC-4337)
-- 🏗 Build scalable DeFi infrastructure
-- 🛡 Learn Smart Contract Auditing
-- 🤝 Mentor junior blockchain developers
-
----
-
-# ❤️ Favorite Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,solidity,postgres,mongodb,redis,docker,vercel,git&perline=6"/>
-
-</p>
-
----
-
-# ⚡ Tech Highlights
-
-<table>
-
-<tr>
-
-<td align="center">
-
-<h3>Frontend</h3>
-
-React<br>
-Next.js<br>
-TypeScript<br>
-TailwindCSS<br>
-Redux
-
-</td>
-
-<td align="center">
-
-<h3>Backend</h3>
-
-Node.js<br>
-Express<br>
-MongoDB<br>
-PostgreSQL<br>
-Redis
-
-</td>
-
-<td align="center">
-
-<h3>Blockchain</h3>
-
-Solidity<br>
-Hardhat<br>
-Web3.js<br>
-Ethers.js<br>
-OpenZeppelin
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirostowar&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirostowar&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirostowar&theme=tokyonight"/>
-
-</p>
-
----
 
 # ⛓ Blockchain Focus
 
@@ -507,21 +243,8 @@ Solana        ███████
 
 ---
 
-# 🧠 Development Mindset
-
-> Build products that solve real problems.
-
-> Keep learning.
-
-> Keep shipping.
-
-> Keep improving.
-
----
 
 # 🐍 Contribution Snake
-
-> ⚠️ ابتدا این GitHub Action را در ریپازیتوری خودت فعال کن، سپس تصویر زیر به‌صورت خودکار نمایش داده می‌شود.
 
 <p align="center">
 
