@@ -15,13 +15,6 @@ Web3 Full-Stack Developer • Smart Contract Engineer • Blockchain Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web3+Applications;Smart+Contracts+%7C+DeFi+%7C+NFT;React+%7C+Next.js+%7C+Solidity;Always+Learning+Something+New"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amirostowar&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -156,8 +149,6 @@ React • Solidity • PostgreSQL
 <td align="center">
 
 <a href="#">
-
-<img src="https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=900&q=80"/>
 
 </a>
 
